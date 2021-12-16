@@ -13,7 +13,7 @@
 <h3>Sumary:</h3>
 
 <ul>
-
+  <li>Módulo 6: Conceitos básicos e lógica de programação (Basic concepts and programming logic)</li>
 </ul>
 
 
