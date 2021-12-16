@@ -14,7 +14,7 @@
 
 <ul>
   <h5>Part I:</h5>
-  <li>Módulo 6: Conceitos básicos e lógica de programação (Basic concepts and programming logic)</li>
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/6-%20Conceitos%20b%C3%A1sicos%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o/Exercises">Módulo 6: Conceitos básicos e lógica de programação (Basic concepts and programming logic)</a></li>
 </ul>
 
 
