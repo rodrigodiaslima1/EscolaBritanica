@@ -1,3 +1,4 @@
+<br>
 <a href="https://ebac.art.br/en"><img src="https://ebaconline.com.br/_nuxt/d58908d198123d3c50c18638f58abb26.svg"></a>
 <h1>Escola Britanica de Artes Crativas e Tecnologia</h1>
 
