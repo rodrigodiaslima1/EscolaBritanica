@@ -27,7 +27,7 @@
 <br>
 If it makes sense to you, please, follow my work at:
 - <a href="https://www.tvvvvc.com/" ><em>Tvc Computers Website</em></a>
-- <a href="https://www.youtube.com/channel/UC99hYHea_wH84-PEMxl9GpQ" ><em>Youtube</em></a>
+- <a href="https://www.youtube.com/channel/UCa7HpkUTNYhTpWNXb7VX-pg" ><em>Youtube</em></a>
 - <a href="https://www.instagram.com/tvc_computers/" ><em>Instagram</em></a>
 
   
