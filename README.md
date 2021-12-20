@@ -20,6 +20,8 @@
   
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/6-%20Conceitos%20b%C3%A1sicos%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o/Exercises">Módulo 6: Conceitos básicos e lógica de programação (Basic concepts and programming logic)</a></li>
   
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/7-%20Classes%2C%20metodos%2C%20modificadores%20de%20acesso%2C%20palavras%20reservadas%20e%20comentarios">Módulo 7: Classes, metodos, modificadores de acesso, palavras reservadas e comentarios (Classes, methods, access modifiers, reserved words and comments)</a></li>
+  
 </ul>
 
 
