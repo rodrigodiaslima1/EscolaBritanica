@@ -24,6 +24,10 @@
   
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/8-%20Variaveis%2C%20tipos%20e%20operadores">Módulo 8: Variáveis, tipos e operadores (variables, types and operators)</a></li>
   
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/9-%20Tipos%20complexos%2C%20boxing%20(autoboxing)%2C%20unboxing%20e%20casting">Módulo 9: Tipos complexos, boxing(autoboxing), unboxing e casting (complex types, boxing, unbosing and casting)</a></li>
+  
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/10-%20Controle%20de%20fluxos">Módulo 10: Controle de fluxo (Flow control)</a></li>
+  
 </ul>
 
 
