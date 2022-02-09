@@ -39,8 +39,6 @@ If it makes sense to you, please, follow my work at:
 - <a href="https://www.youtube.com/channel/UCa7HpkUTNYhTpWNXb7VX-pg" ><em>Youtube: this.channel()</em></a>
 - <a href="https://www.hackerrank.com/rodrigodiaslima1" ><em>Hacker Rank</em></a>
 - <a href="https://www.linkedin.com/in/rodrigodiaslima1/" ><em>Linkedin</em></a>
-- <a href="https://www.tvvvvc.com/" ><em>Tvc Computers Website</em></a>
-- <a href="https://www.instagram.com/tvc_computers/" ><em>Tvc Computers Instagram</em></a>
 
 <h4><em>Type Voracious Code!</em></h4>
 <h4>Rodrigo Dias Lima</h4>
