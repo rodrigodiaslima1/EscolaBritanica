@@ -28,6 +28,11 @@
   
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/10-%20Controle%20de%20fluxos">Módulo 10: Controle de fluxo (Flow control)</a></li>
   
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/11-%20Cole%C3%A7%C3%B5es%20Parte%201">Módulo 11: Coleções Parte 1 (Collections)</a></li>
+  
+  
+  
+  
 </ul>
 
 
