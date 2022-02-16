@@ -30,6 +30,7 @@
   
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/11-%20Cole%C3%A7%C3%B5es%20Parte%201">Módulo 11: Coleções Parte 1 (Collections)</a></li>
   
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/12-%20Cole%C3%A7%C3%B5es%20Parte%202">Módulo 12: Coleções Parte 2 (Collections)</a></li>
   
   
   
