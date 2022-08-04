@@ -33,6 +33,8 @@
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/12-%20Cole%C3%A7%C3%B5es%20Parte%202">Módulo 12: Coleções Parte 2 (Collections)</a></li>
   
   <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/13-%20Cole%C3%A7%C3%B5es%20Parte%203">Módulo 13: Coleções Parte 3 (Collections)</a></li>
+  
+  <li><a href="https://github.com/rodrigodiaslima1/EscolaBritanica/tree/main/13-%20Cole%C3%A7%C3%B5es%20Parte%203">Módulo 15: Generics (Collections)</a></li>
  
   
 </ul>
