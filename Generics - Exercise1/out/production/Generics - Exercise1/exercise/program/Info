@@ -1,0 +1,37 @@
+
+Nome: Rodrigo Dias Lima
+Email: rodrigodiaslima1@gmail.com
+
+Info:
+
+Design Pattern: Abstract Factory
+
+===
+abstractFactory (package):
+
+    ferrariFactory (package):
+        - IFerrariFactory (interface)
+            - CaliforniaFactory (implements IFerrariFactory)
+            - SpiderFactory (implements IFerrariFactory)
+
+    lamborghiniFactory (package)
+        - ILamborghiniFactory (interface)
+            - AventadorFactory (implements ILamborghiniFactory
+            - TestarossaFactory (implements ILamborghiniFactory
+
+===
+products (package):
+
+    ferrariCars (package):
+
+        - Ferrari (abstract class)
+            - California (extends Ferrari)
+            - Spider (extends Ferrari)
+
+    lamborghiniCars (package):
+
+        - Lamborghini (abstract class)
+            - Aventador (extends Lamborghini)
+            - Testarossa (extends Lamborghini)
+
+===
