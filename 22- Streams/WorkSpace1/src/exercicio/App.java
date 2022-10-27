@@ -11,6 +11,8 @@ public class App {
         Map<String, String> peopleMapList = People.fullList();
 
         System.out.println("===> All entries: ");
+        // Here I used var type. However, if I change to Stream type, the .getKey() and .getValue() methods won't work.
+        // So, from where do those methods come from?
         var peopleStream = peopleMapList.entrySet().stream();
         peopleStream.forEach(person -> System.out.printf("Name: %s | Gender: %s\n", person.getKey(), person.getValue()));
 
